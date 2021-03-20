@@ -1,4 +1,4 @@
-# 新年快乐 🎉
+# 你好！こんにちは
 
 <!--
 **beranek1/beranek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
